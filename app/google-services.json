@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79852940075",
+    "firebase_url": "https://rancho-876fb.firebaseio.com",
+    "project_id": "rancho-876fb",
+    "storage_bucket": "rancho-876fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79852940075:android:bac6ade35deb9c241df36e",
+        "android_client_info": {
+          "package_name": "com.diegorosa.rancho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79852940075-s6ok44hn5rin0pjn75p4iot38u7vopu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diegorosa.rancho",
+            "certificate_hash": "fd0a228840f3f7282f6b8198219d0fc1638afcc0"
+          }
+        },
+        {
+          "client_id": "79852940075-s1dgism8bpaneaij3nce44q88pei9hp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ytmlQUJ8mPltzXSmO66-08GB8kyjNsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79852940075-s1dgism8bpaneaij3nce44q88pei9hp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
